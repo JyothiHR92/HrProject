@@ -1,0 +1,26 @@
+{
+    "hrappdev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-hr-app-hrappdev-03404-authRole",
+            "UnauthRoleArn": "arn:aws:iam::219780891667:role/amplify-hr-app-hrappdev-03404-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::219780891667:role/amplify-hr-app-hrappdev-03404-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-hr-app-hrappdev-03404-deployment",
+            "UnauthRoleName": "amplify-hr-app-hrappdev-03404-unauthRole",
+            "StackName": "amplify-hr-app-hrappdev-03404",
+            "StackId": "arn:aws:cloudformation:us-east-1:219780891667:stack/amplify-hr-app-hrappdev-03404/2d1d91d0-0e95-11ea-8c44-12b6a099270b"
+        }
+    },
+    "hrmaster": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-hr-app-hrmaster-91051-authRole",
+            "UnauthRoleArn": "arn:aws:iam::219780891667:role/amplify-hr-app-hrmaster-91051-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::219780891667:role/amplify-hr-app-hrmaster-91051-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-hr-app-hrmaster-91051-deployment",
+            "UnauthRoleName": "amplify-hr-app-hrmaster-91051-unauthRole",
+            "StackName": "amplify-hr-app-hrmaster-91051",
+            "StackId": "arn:aws:cloudformation:us-east-1:219780891667:stack/amplify-hr-app-hrmaster-91051/5f599890-0edd-11ea-8c0f-0a140a53308d"
+        }
+    }
+}
